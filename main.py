@@ -1,5 +1,5 @@
 print ("hello")
 
 
-def foo(x):
+def foo(x,y):
   return x
